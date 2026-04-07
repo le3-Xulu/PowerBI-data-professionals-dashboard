@@ -27,8 +27,8 @@ Dashboard snapshots uploaded as files.
 ---
 
 ## 📂 Project Files
-- [Dataset](data_professionals_dataset.xlsx)  
-- [Power BI Dashboard](data_professionals_dashboard-lindelwa-xulu.pbix)  
+- Dataset uploaded as files.
+- Power BI Dashboard snapshots uploaded as files.
 
 ---
 
